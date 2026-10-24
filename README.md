@@ -17,7 +17,7 @@ Citi x NPCI DRUNIX Hackathon 2026 (Innovation Carnival, challenge CHL-7007). Tra
 | Jatin Agarwal | Member |
 | Harshil Shah | Member |
 
-Pitch deck: [docs/HISSA_Pitch_Deck.pdf](docs/HISSA_Pitch_Deck.pdf)
+Pitch deck: [docs/HISSA_Pitch_Deck (1).pdf](docs/HISSA_Pitch_Deck%20%281%29.pdf)
 
 ## What it is
 
